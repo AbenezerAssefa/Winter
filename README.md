@@ -7,7 +7,7 @@ Abenezer Assefa
 To get a local copy up and running follow these simple example steps.
 
 1. Open terminal or cmd on you local machine and navigate to your desired directory.
-2. **Run** _'git clone https://github.com/AbenezerAssefa/Winter-Photography'_
+2. **Run** _'git clone https://github.com/AbenezerAssefa/Winter'_
 3. **Run** _'code'_
 
 ## the link bellow will take you to my website
@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Clone this repository
 
-git clone https://github.com/AbenezerAssefa/Winter-Photography'
+git clone https://github.com/AbenezerAssefa/Winter'
 
 👤 **Abenezer**
 
